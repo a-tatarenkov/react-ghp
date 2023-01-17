@@ -1,9 +1,9 @@
 {
+  "homepage": "https://a-tatarenkov.github.io/react-ghp",
   "name": "react-ghp",
   "description": "This repo represents implementation of the Github Pages",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://a-tatarenkov.github.io/react-ghp",
+  "version": "1.0.0",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
